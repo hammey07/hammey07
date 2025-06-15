@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Hammad!
+<h1 align="">
+  <a href="#">Hi, I'm <span style="color:#0ea5e9;">Hammad</span> 👋</a>
+</h1>
+<p align="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Full-stack+Web+Developer;Loves+building+cool+stuff" alt="Typing SVG" />
+</p>
+
+<p align="">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ## 💻 Web Developer | JavaScript Enthusiast 
 
@@ -51,4 +60,4 @@ A simple 2-player dice game built with JavaScript. Roll the dice, collect points
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Always curious, never afraid to try something new.”
