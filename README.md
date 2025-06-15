@@ -43,7 +43,7 @@ A React JS based project that retries movies database using API and provides too
 A small React-based app that allows users to create and manage a checklist of items they
 need for travel. Built using hooks and component-based structure for quick and easy item tracking.
 
-#### HamPig - [Demo Link](https://app.netlify.com/projects/hampig/)  
+#### HamPig - [Demo Link](https://hampig.netlify.app)  
 A simple 2-player dice game built with JavaScript. Roll the dice, collect points, and hold before you hit a 1! First to 50 wins.
 
 ---
