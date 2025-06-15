@@ -27,7 +27,10 @@ React • Bootstrap • WordPress • MySQL • Git • VS Code • Postman • 
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Work Projects:
+Most of my professional projects are private due to client or company confidentiality. If you'd like to know more or see code samples, feel free to get in touch.
+
+### 🚀 Personal Projects
 
 #### Components Library - [Demo Link](https://hamponents.netlify.app/)
 A React-based project that provides a searchable, organized library of reusable UI components. Users can browse, view, and copy component code for easy integration into their own projects. Built with modern React features including hooks, state management, and React Router, following a modular component structure for scalability and maintainability.
