@@ -22,6 +22,9 @@ I specialize in front-end development with a strong foundation in PHP, WordPress
 **Languages:**  
 JavaScript • PHP • HTML • SCSS • SQL • Java 
 
+**Learning:**  
+Go Lang • React
+
 **Frameworks & Tools:**  
 React • Bootstrap • WordPress • MySQL • Git • VS Code • Postman • Docker • Webpack
 
