@@ -53,6 +53,7 @@ A simple 2-player dice game built with JavaScript. Roll the dice, collect points
 
 ### 🎯 Currently
 
+- 🏃🏽 Started working on small projects using Go Programming Language
 - 🔭 Working on: A local TypeScript / React based app to sharpen my front-end skills  
 - 🌱 Learning: React, TypeScript, Testing workflows, Headless WordPress, Advanced JS  
 - 🤝 Open to: Collaborations and new job opportunities  
